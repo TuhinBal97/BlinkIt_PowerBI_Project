@@ -1,0 +1,8 @@
+KPI
+1. The overall revenue generated from all itesm sold : $ 1.20M
+2. The average revenue per sale is : $ 141
+3. The total count of diffrenet items sold is : $ 8523
+4. The average customer ratings for items sold is : 3.9
+
+Charts
+1. Total sales by Fat cotent (
