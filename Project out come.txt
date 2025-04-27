@@ -1,0 +1,27 @@
+KPI
+1. The overall revenue generated from all items sold : $ 1.20M
+2. The average revenue per sale is : $ 141
+3. The total count of different items sold is : $ 8523
+4. The average customer ratings for items sold is : 3.9
+
+Charts
+1. Total sales by Fat content (Donut Chart): 64.6% (Low Fat) and 35.4% (Normal Fat Content)
+
+2. Total sales by Item type (Stacked Bar Chart): 
+	🔹Fruits and Vegetables(highest) = $0.18M 
+	🔹Snack Foods(highest) = $0.18M 
+	🔹Household items(Second highest) = $0.14M 
+	🔹Frozen Foods(Third highest) = $0.12M 
+
+3. Fat Content by Outlet for total sales (Clustered Bar Chart): Tire 3 locations are highest in the case of Regular and Low Fat content products. 
+
+4. Total Sales by Outlet Establishment (Line Chart): 
+	🔹Highest Outlet establishment in the Year 2018 worth $205K
+	🔹Lowest Outlet establishment in the Year 2011 worth $78K
+
+5. Sales by Outlet Size (Donut Chart): 
+	🔹Maximum sales produced by Medium Size Outlet : $507.90K
+	🔹Minimum sales produced by High Size Outlet : $248.99K
+
+6. Sales by Outlet Location (Funnel Chart) : Tire 3 Outlet locations are highest in Sales.
+
